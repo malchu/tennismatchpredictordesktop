@@ -16,6 +16,9 @@ To run the application locally, you must have installed:
 * [Matplotlib](https://matplotlib.org/stable/users/installing/index.html)
 ### Running Application
 To run the application locally, first clone this repository.
+```python
+git clone https://github.com/malchu/tennismatchpredictor
+```
 ## How to Use
 1. Input an ATP player's full name in each of the 2 text boxes. Make sure to spell their full names correctly.
 2. Click "Predict!" and wait for the results to come up.
