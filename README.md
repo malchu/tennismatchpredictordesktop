@@ -27,7 +27,7 @@ Then, simply run the main script to launch the application:
 ## How to Use
 1. Input an ATP player's full name in each of the 2 text boxes. Make sure to spell their full names correctly.
 2. Click "Predict!" and wait for the results to come up.
-3. Voila! You can now see who will win that match and the likelihood.
+3. Voila! You can now see who will win that match and the likelihood for each player.
 ### Walkthrough
 ![](https://github.com/malchu/tennismatchpredictor/blob/master/examples/usage.gif)
 ## Example Output
