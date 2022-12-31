@@ -17,12 +17,12 @@ To run the application locally, you must have installed:
 ### Running Application
 To run the application locally, first clone this repository:
 ```
-git clone https://github.com/malchu/tennismatchpredictor
+> git clone https://github.com/malchu/tennismatchpredictor
 ```
 Then, simply run the main script to launch the application:
 ```unix
-cd tennismatchpredictor
-python3 main.py
+> cd tennismatchpredictor
+> python3 main.py
 ```
 ## How to Use
 1. Input an ATP player's full name in each of the 2 text boxes. Make sure to spell their full names correctly.
