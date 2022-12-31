@@ -15,9 +15,14 @@ To run the application locally, you must have installed:
 * [Beautifulsoup](https://www.geeksforgeeks.org/beautifulsoup-installation-python/)
 * [Matplotlib](https://matplotlib.org/stable/users/installing/index.html)
 ### Running Application
-To run the application locally, first clone this repository.
+To run the application locally, first clone this repository:
 ```
 git clone https://github.com/malchu/tennismatchpredictor
+```
+Then, simply run the main script to launch the application:
+```linux
+cd tennismatchpredictor
+python3 main.py
 ```
 ## How to Use
 1. Input an ATP player's full name in each of the 2 text boxes. Make sure to spell their full names correctly.
