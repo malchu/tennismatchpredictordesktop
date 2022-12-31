@@ -16,7 +16,7 @@ To run the application locally, you must have installed:
 * [Matplotlib](https://matplotlib.org/stable/users/installing/index.html)
 ### Running Application
 To run the application locally, first clone this repository.
-```python
+```linux
 git clone https://github.com/malchu/tennismatchpredictor
 ```
 ## How to Use
