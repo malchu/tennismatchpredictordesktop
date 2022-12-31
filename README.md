@@ -20,7 +20,7 @@ To run the application locally, first clone this repository:
 git clone https://github.com/malchu/tennismatchpredictor
 ```
 Then, simply run the main script to launch the application:
-```linux
+```unix
 cd tennismatchpredictor
 python3 main.py
 ```
